@@ -1,0 +1,12 @@
+/**: # namespace and node name
+  ros__parameters:
+    weights_name: 'yolov3.weights'
+    subscribe_topic: '/camera/rgb/image_raw'
+    confidence: 0.7
+    NMS: 0.3
+    config_name: 'yoloc3.cfg'
+    classes_name: 'coco.names'
+    gpu_id: 0
+    image_size: 416
+    isVisualizing: True
+    qos_depth: 10
