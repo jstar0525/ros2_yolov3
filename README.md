@@ -1,4 +1,4 @@
-# yolov3_pytorch_ros
+# yolov3_pytorch_ros2
 
 This package provides a ROS2 wrapper for [YOLOv3](https://pjreddie.com/darknet/yolo) based on [PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)and [yolov3_pytorch_ros](https://github.com/vvasilo/yolov3_pytorch_ros). For consistency, the [messages](msg) are based on the [darknet_ros](https://github.com/leggedrobotics/darknet_ros) package. The package has been tested with Ubuntu 18.04 and ROS2 Dashing on a NVIDIA Jetson AGX Xavier.
 
